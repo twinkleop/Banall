@@ -5,16 +5,16 @@
     "image": "heroku/python",
     "env": {
         "TELEGRAM_TOKEN": {
-        "description": "Get this value from @BotFather"
+        "description": "5833765949:AAEam9VwsvyrBXe9JrHhKuGNsKsoZsrnvjs"
         },
         "TELEGRAM_APP_HASH":{
-            "description": "Get this value from https://my.telegram.org"
+            "description": "f080e7ef975e008c801e5eecfe539547"
         },
         "SUDOS":{
-            "description": "Enter your sudo Access ids"
+            "description": "2046092634 5862068291"
         },
         "TELEGRAM_APP_ID":{
-            "description": "Get this value from https://my.telegram.org"
+            "description": "14965194"
         }
     },
     "formation": {
